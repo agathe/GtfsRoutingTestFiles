@@ -1,0 +1,15 @@
+route_id,service_id,trip_id,direction_id,trip_headsign,shape_id
+243,sW,0002,0,Uitenhage,PE_out
+243,sW,0004,0,Uitenhage,PE_out
+243,sW,0006,0,Uitenhage,PE_out
+243,sW,0008,0,Uitenhage,PE_out
+243,sW,0010,0,Uitenhage,PE_out
+243,sW,0001,1,Port Elizabeth,PE_in
+243,sW,0021,1,Port Elizabeth,PE_in_s1
+243,sW,0003,1,Port Elizabeth,PE_in
+243,sW,0005,1,Port Elizabeth,PE_in
+243,sW,0023,1,Port Elizabeth,PE_in_s2
+243,sW,0007,1,Port Elizabeth,PE_in
+243,sW,0009,1,Port Elizabeth,PE_in
+243,sS,0012,0,Uitenhage,PE_out
+243,sS,0013,1,Port Elizabeth,PE_in

@@ -1,0 +1,11 @@
+stop_id,stop_name,stop_lat,stop_lon,location_type
+1,Port Elizabeth,-33.960280,25.624170,0
+2,North End,-33.947780,25.610280,0
+3,Sydenham,-33.923890,25.604440,0
+4,New Brighton,-33.898890,25.608060,0
+5,Swartkops,-33.868060,25.601110,0
+6,Redhouse,-33.839170,25.569170,0
+7,Perseverance,-33.815560,25.520560,0
+8,Despatch,-33.797450,25.468230,0
+9,De Mist,-33.780830,25.418890,0
+10,Uitenhage,-33.771670,25.408890,0
